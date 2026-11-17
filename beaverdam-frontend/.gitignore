@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env.local
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.beaverdam-demo-state.json
